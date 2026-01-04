@@ -105,7 +105,11 @@ For access-related queries, please feel free to contact me.
 ---
 
 ## 📬 Contact
-If you have questions about the analysis, methodology, or findings, feel free to reach out.
+For any questions regarding the analysis or methodology, feel free to connect with me:
+
+**MD RAIHAN**  
+🔗 LinkedIn: https://www.linkedin.com/in/md-raihan-9809592aa/
+
 
 ---
 
