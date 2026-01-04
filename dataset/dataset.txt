@@ -1,0 +1,11 @@
+## Data Availability
+The raw dataset is not included in this repository due to size and privacy constraints.
+The full dataset contains ~6 million records across multiple tables and exceeds several gigabytes in size.
+This repository focuses on reproducible analysis logic, methodology, and insights.
+
+
+#Note
+The full dataset contains ~5.9 million records across 4 relational tables
+(bookings, searches, quotes, cancellations) and exceeds 3 GB in size.
+
+**For access-related queries, please feel free to contact me.
