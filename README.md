@@ -1,8 +1,12 @@
 # Namma Yatri – Ride Funnel Analysis
 
 ## 📌 Project Overview
-This project presents an end-to-end analytical study of a ride-hailing platform’s booking lifecycle, focusing on user conversion, cancellations, and operational bottlenecks.  
-The goal is to understand how riders progress from initiating a search to completing a ride, identify where and why drop-offs occur, and derive actionable insights to improve platform reliability and efficiency.
+This project is an end-to-end analytical study conducted on **real, industry-scale ride-hailing data**, consisting of **~6 million records** distributed across **multiple relational tables** (searches, quotes, bookings, and cancellations), with an overall data size in the **multi-gigabyte range**.
+
+The analysis follows **production-level analytics standards**, including structured data cleaning, large-scale joins, funnel construction, cancellation diagnostics, behavioral segmentation, and stakeholder-focused storytelling.
+
+The objective is to understand how riders progress from search initiation to ride completion, identify critical funnel drop-offs, uncover operational bottlenecks, and propose data-backed recommendations to improve conversion and ride reliability.
+
 
 ---
 
