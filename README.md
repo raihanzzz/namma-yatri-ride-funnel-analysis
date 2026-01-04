@@ -77,3 +77,31 @@ Based on the analysis, the following actions are recommended:
 
 ## 🗂 Repository Structure
 
+```
+namma-yatri-ride-funnel-analysis/
+│
+├── README.md
+├── src/ # Analysis code (R)
+│ └── namma_yatri_main.R
+├── assets/ # Funnel visualizations and main outputs
+└── dataset/ # Data notes (raw data excluded)
+└── insights/ # key insights
+```
+
+---
+
+## 📁 Data Availability
+The raw dataset is intentionally excluded from this repository due to size and privacy constraints.
+
+The analysis was performed on a large, production-scale dataset spanning multiple relational tables and several million records, resulting in a multi-gigabyte data footprint.
+
+This repository focuses on reproducible analysis logic, methodology, and data-driven insights.  
+For access-related queries, please feel free to contact me.
+
+---
+
+## 📬 Contact
+If you have questions about the analysis, methodology, or findings, feel free to reach out.
+
+---
+
